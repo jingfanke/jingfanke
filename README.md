@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jingfanke
-- 👀 I’m interested in Natural Language Processing (NLP), Audio and Speech Processing
-- 🌱 I’m currently learning Multimodal Large Language Model (MLLM)
-- 📫 How to reach me: jingfan_ke@bjtu.edu.cn
+- 👀 I’m interested in Natural Language Processing (NLP), Multilingual Reasoning
+- 📫 How to reach me: jingfan.ke@bjtu.edu.cn
 - 😄 Pronouns: he/his
 - 🔗 Homepage: https://jingfanke.github.io
 
